@@ -5,4 +5,6 @@ Dev2: 2075523
 - [Schede madri](./schede_mari.md)
 - [Processori](./processori.md)
 
+# Periferiche
+
 Elettronica Padovana
